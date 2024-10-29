@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Memory Card Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot
+![alt text](https://github.com/nihas/cards-mind-game-reactjs/blob/main/4x4game.png?raw=true)
+
 ## Available Scripts
+
 
 In the project directory, you can run:
 
