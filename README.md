@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
-![alt text](https://github.com/nihas/cards-mind-game-reactjs/blob/main/4x4game.png?raw=true =250x250)
+<img src="https://github.com/nihas/cards-mind-game-reactjs/blob/main/4x4game.png?raw=true" data-canonical-src="https://github.com/nihas/cards-mind-game-reactjs/blob/main/4x4game.png?raw=true" width="400" height="400" />
 
 ## Available Scripts
 
